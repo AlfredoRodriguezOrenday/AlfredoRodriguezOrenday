@@ -14,7 +14,7 @@ Mi perfil en :point_right: [LinkedIn](https://www.linkedin.com/in/alfredo-rodrí
     <td width="50%">
       <h3 align="center"> CRUD </h3>
       <div align="center"> 
-        <a href="https://github.com/AlfredoRodriguezOrenday/CRUD" target="_blank" src="https://github.com/AlfredoRodriguezOrenday/CRUD/blob/main/CRUD/Img/Homes.PNG"> 
+        <a href="https://github.com/AlfredoRodriguezOrenday/CRUD" target="_blank"><img src="https://github.com/AlfredoRodriguezOrenday/CRUD/blob/main/CRUD/Img/Homes.PNG"/> 
           <p>
           <a href="https://github.com/AlfredoRodriguezOrenday/CRUD" target="_blank">
           <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
