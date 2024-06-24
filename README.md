@@ -4,7 +4,7 @@
 
 Hola me llamo Alfredo soy programador jr y me gusta todo lo relacionado a la tecnologia.
 <br>
-Mi perfil en :point_right: [![LinkedIn](https://skillicons.dev/icons?i=linkedin)(https://www.linkedin.com/in/alfredo-rodríguez-orenday-73a14a215/ "Alfredo Rdz O")] :star:
+Mi perfil en :point_right: [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alfredo-rodríguez-orenday-73a14a215/ "Alfredo Rdz O") :star:
 
 <div align="center">
   <h3 align="center"> Tecnologias </h3>
