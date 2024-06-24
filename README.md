@@ -6,6 +6,15 @@ Hola me llamo Alfredo soy programador jr y me gusta todo lo relacionado a la tec
 <br>
 Mi perfil en :point_right: [LinkedIn](https://www.linkedin.com/in/alfredo-rodríguez-orenday-73a14a215/ "Alfredo Rdz O") :star:
 
+<div align="center">
+  <h3 align="center"> Tecnologias </h3>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,java,js,py,php,git,github,docker,html,css,nodejs" />
+  </a>
+  </p>
+</div>
+
 ## Hobbies 
 - :musical_score: Escuchar musica :musical_keyboard:
 - :full_moon: Aprender ciencia y fisica :telescope:
