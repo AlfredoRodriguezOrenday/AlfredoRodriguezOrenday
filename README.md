@@ -16,7 +16,7 @@
   <h3 align="center"> Tecnologias </h3>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,java,py,php,js,html,css,git,github,docker,nodejs,react,express,unity,azure,tailwind,bootstrap,mysql,mongodb,vscode,visualstudio&perline=8" />
+    <img src="https://skillicons.dev/icons?i=cs,java,py,php,js,html,css,git,github,docker,nodejs,react,express,unity,azure,tailwind,bootstrap,mysql,mongodb,vscode,visualstudio&perline=7" />
   </a>
   </p>
 </div>
