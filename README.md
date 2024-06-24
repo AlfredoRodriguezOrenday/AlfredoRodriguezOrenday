@@ -5,21 +5,18 @@
 <div align="center">
   <h5>Hola me llamo Alfredo soy programador jr y me gusta todo lo relacionado a la tecnologia.</h5>
   <p><strong>Mi perfil en </strong>
-    <a href="https://www.linkedin.com/in/alfredo-rodríguez-orenday-73a14a215/">
+    <a href="https://www.linkedin.com/in/alfredo-rodríguez-orenday-73a14a215/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   </p> 
 </div>
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)] (https://www.linkedin.com/in/alfredo-rodríguez-orenday-73a14a215/ "Alfredo Rdz O") 
-
 <br>
 
 <div align="center">
   <h3 align="center"> Tecnologias </h3>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,java,py,php,js,html,css,git,github,docker,nodejs,react,express,unity,azure,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=cs,java,py,php,js,html,css,git,github,docker,nodejs,react,express,unity,azure,tailwind,bootstrap,mysql,mongodb,vscode,visualstudio&perline=8" />
   </a>
   </p>
 </div>
