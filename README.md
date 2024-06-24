@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy Alfredo 👋</h1>
 </div>
 
-[LinkedIn](https://www.linkedin.com/in/alfredo-rodríguez-orenday-73a14a215/ "Alfredo Rdz O")  
+Mi perfil en :point_right: [LinkedIn](https://www.linkedin.com/in/alfredo-rodríguez-orenday-73a14a215/ "Alfredo Rdz O")  
 
 ## Hobbies 
 - :musical_score: Escuchar musica :musical_keyboard:
