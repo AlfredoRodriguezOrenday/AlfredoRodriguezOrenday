@@ -24,7 +24,6 @@ Mi perfil en :point_right: [LinkedIn](https://www.linkedin.com/in/alfredo-rodrí
             <p>En este proyecto cree un <strong>CRUD</strong> usando C# y SQL Server.</p>
       </div>
     </td>
-
     <td width="50%">
       <h3 align="center"> API Nodejs </h3>
       <div align="center"> 
