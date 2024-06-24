@@ -2,12 +2,45 @@
 <h1 align="center">Hola, soy Alfredo 👋</h1>
 </div>
 
-Mi perfil en :point_right: [LinkedIn](https://www.linkedin.com/in/alfredo-rodríguez-orenday-73a14a215/ "Alfredo Rdz O")  
+Mi perfil en :point_right: [LinkedIn](https://www.linkedin.com/in/alfredo-rodríguez-orenday-73a14a215/ "Alfredo Rdz O") :star:
 
 ## Hobbies 
 - :musical_score: Escuchar musica :musical_keyboard:
 - :full_moon: Aprender ciencia y fisica :telescope:
 - :video_game: Jugar videojuegos :space_invader:
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center"> CRUD </h3>
+      <div align="center"> 
+        <a href="https://github.com/AlfredoRodriguezOrenday/CRUD" target="_blank" src="https://github.com/AlfredoRodriguezOrenday/CRUD/blob/main/CRUD/Img/Homes.PNG"> 
+          <p>
+          <a href="https://github.com/AlfredoRodriguezOrenday/CRUD" target="_blank">
+          <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+          </p>
+        </a>
+            <p>En este proyecto cree un <strong>CRUD</strong> usando C# y SQL Server.</p>
+      </div>
+    </td>
+
+    <td width="50%">
+      <h3 align="center"> API Nodejs </h3>
+      <div align="center"> 
+        <a href="https://github.com/AlfredoRodriguezOrenday/ApiNodeExpressSql" target="_blank" src="https://chisellabs.com/glossary/wp-content/uploads/2021/06/What-is-an-API.png"> 
+          <p>
+          <a href="https://github.com/AlfredoRodriguezOrenday/ApiNodeExpressSql" target="_blank">
+          <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+          </p>
+        </a>
+            <p>En este proyecto cree una <strong>API REST</strong> usando Javascript, Node, Express y Sql Server</p>
+      </div>
+    </td>
+    
+  </tr>
+</table>
 
 ### Github Analitics
 <p align="center">
