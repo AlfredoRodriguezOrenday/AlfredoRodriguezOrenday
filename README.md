@@ -10,7 +10,9 @@
   </a>
   </p> 
 </div>
+
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)] (https://www.linkedin.com/in/alfredo-rodríguez-orenday-73a14a215/ "Alfredo Rdz O") 
+
 <br>
 
 <div align="center">
