@@ -27,7 +27,7 @@ Mi perfil en :point_right: [LinkedIn](https://www.linkedin.com/in/alfredo-rodrí
     <td width="50%">
       <h3 align="center"> API Nodejs </h3>
       <div align="center"> 
-        <a href="https://github.com/AlfredoRodriguezOrenday/ApiNodeExpressSql" target="_blank" src="https://chisellabs.com/glossary/wp-content/uploads/2021/06/What-is-an-API.png"> 
+        <a href="https://github.com/AlfredoRodriguezOrenday/ApiNodeExpressSql" target="_blank"><img src="https://chisellabs.com/glossary/wp-content/uploads/2021/06/What-is-an-API.png"/> 
           <p>
           <a href="https://github.com/AlfredoRodriguezOrenday/ApiNodeExpressSql" target="_blank">
           <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
