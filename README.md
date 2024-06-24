@@ -6,7 +6,7 @@
 
 ## Hobbies 
 - :musical_score: Escuchar musica :musical_keyboard:
-- :full_moon: Aprender ciencia y fisica :microscope:
+- :full_moon: Aprender ciencia y fisica :telescope:
 - :video_game: Jugar videojuegos :space_invader:
 
 ### Github Analitics
