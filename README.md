@@ -2,9 +2,13 @@
 <h1 align="center">Hola, soy Alfredo 👋</h1>
 </div>
 
-Hola me llamo Alfredo soy programador jr y me gusta todo lo relacionado a la tecnologia.
+<div align="center">
+  <h5>Hola me llamo Alfredo soy programador jr y me gusta todo lo relacionado a la tecnologia.</h5>
+  <p><strong>Mi perfil en </strong> [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alfredo-rodríguez-orenday-73a14a215/ "Alfredo Rdz O")</p>
+  
+</div>
+
 <br>
-Mi perfil en :point_right: [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alfredo-rodríguez-orenday-73a14a215/ "Alfredo Rdz O") :star:
 
 <div align="center">
   <h3 align="center"> Tecnologias </h3>
