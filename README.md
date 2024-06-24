@@ -10,7 +10,7 @@ Mi perfil en :point_right: [LinkedIn](https://www.linkedin.com/in/alfredo-rodrí
   <h3 align="center"> Tecnologias </h3>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,java,py,php,js,html,css,git,github,docker,nodejs,react,express,unity,azure,vscode&perline=3" />
+    <img src="https://skillicons.dev/icons?i=cs,java,py,php,js,html,css,git,github,docker,nodejs,react,express,unity,azure,vscode&perline=8" />
   </a>
   </p>
 </div>
