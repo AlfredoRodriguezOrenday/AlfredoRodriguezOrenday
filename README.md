@@ -4,7 +4,7 @@
 
 <div align="center">
   <h5>Hola me llamo Alfredo soy programador jr y me gusta todo lo relacionado a la tecnologia.</h5>
-  <p><strong>Mi perfil en </strong>
+  <p><strong>Mi perfil en: </strong><br>
     <a href="https://www.linkedin.com/in/alfredo-rodríguez-orenday-73a14a215/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
